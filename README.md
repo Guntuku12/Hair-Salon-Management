@@ -1,4 +1,5 @@
-->Project Overview :
+     Hair Salon Management
+Project Overview :
 
 The Hair Salon Management System is designed to simplify and streamline the management of salon appointments, user profiles, and salon services. 
 The system allows users to create an account, book appointments, and receive status updates.
