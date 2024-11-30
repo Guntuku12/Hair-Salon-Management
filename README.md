@@ -18,7 +18,6 @@ Mobile Number & Password Update:  Users can update their details directly from t
 
 Contact Us: A contact form for customer queries and feedback.
 
-Responsive Design: Optimized for both desktop and mobile devices.
 
 ->Tech Stack
 
